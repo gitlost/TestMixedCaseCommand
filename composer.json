@@ -1,0 +1,12 @@
+{
+    "name": "gitlost/TestMixedCaseCommand",
+    "description": "wp-cli test mixed-case name command",
+    "type": "wp-cli-package",
+    "license": "MIT",
+    "autoload": {
+        "files": [ "command.php" ]
+    },
+    "require": {
+        "wp-cli/wp-cli": "*"
+    }
+}
